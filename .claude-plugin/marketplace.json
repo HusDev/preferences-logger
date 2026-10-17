@@ -1,0 +1,16 @@
+{
+  "name": "preferences-logger",
+  "owner": {
+    "name": "Hussein S. Hasan"
+  },
+  "metadata": {
+    "description": "A skill that keeps a living PREFERENCES.md of the decisions you make while working with Claude."
+  },
+  "plugins": [
+    {
+      "name": "preferences-logger",
+      "source": "./",
+      "description": "Keeps a living PREFERENCES.md: every decision and preference you mention while working, recorded with dates and followed in later sessions."
+    }
+  ]
+}

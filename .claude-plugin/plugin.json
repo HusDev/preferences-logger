@@ -1,0 +1,8 @@
+{
+  "name": "preferences-logger",
+  "description": "Keeps a living PREFERENCES.md: every decision and preference you mention while working, recorded with dates and followed in later sessions.",
+  "version": "1.0.0",
+  "author": { "name": "Hussein S. Hasan" },
+  "license": "MIT",
+  "keywords": ["preferences", "decisions", "memory", "design-log", "skills"]
+}
